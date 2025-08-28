@@ -1,0 +1,12 @@
+{
+  "name": "Test Nature Pack with Files",
+  "author": "Test Author",
+  "description": "A test pack with nature sounds and actual audio files",
+  "version": "1.0.0",
+  "sounds": {
+    "alert": "bird_chirp.wav",
+    "notify": "water_drop.wav",
+    "error": "thunder.wav",
+    "success": "chime.wav"
+  }
+}
