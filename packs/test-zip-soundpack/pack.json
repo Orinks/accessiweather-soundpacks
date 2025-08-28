@@ -1,0 +1,12 @@
+{
+  "name": "Test ZIP Soundpack",
+  "author": "ZIP Test Author",
+  "description": "A test soundpack created from ZIP upload",
+  "version": "1.0.0",
+  "sounds": {
+    "alert": "sounds/alert.wav",
+    "notify": "sounds/notification.wav",
+    "error": "sounds/error.wav",
+    "success": "sounds/success.wav"
+  }
+}
