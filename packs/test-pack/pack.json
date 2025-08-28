@@ -1,0 +1,10 @@
+{
+  "name": "Test Pack",
+  "author": "Jane-Doe",
+  "description": "Test pack",
+  "version": null,
+  "sounds": {
+    "alert": "alert.wav",
+    "notify": "notify sound.wav"
+  }
+}
