@@ -1,0 +1,9 @@
+{
+  "name": "SciFi",
+  "author": "Orinks",
+  "description": "Scifi alert sounds",
+  "version": null,
+  "sounds": {
+    "tornado_warning": "Tornado.wav"
+  }
+}
